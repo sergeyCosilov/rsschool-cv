@@ -59,3 +59,4 @@ console.log(longestWord);
 ## English 
 
   > A(2+) - B(1)
+  > 
